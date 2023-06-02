@@ -14,7 +14,7 @@ package ru.netology;
         import io.github.bonigarcia.wdm.WebDriverManager;
 
 
-public class testing {
+public class Testing {
     private WebDriver driver;
 
     @BeforeAll
